@@ -1,0 +1,54 @@
+{
+  "1765562220836": {
+    "originalName": "GRU-LOGO VERT.png",
+    "fileName": "1765562220836.png",
+    "size": 1129189,
+    "url": "${appResourceUrl}/images/widget_2/1765562220836.png",
+    "created": 1765562220836,
+    "resourcesPrefix": "images/widget_2",
+    "referredIds": [],
+    "originId": "1765562220836",
+    "fileFormat": "image/png",
+    "originalWidth": 7203,
+    "originalHeight": 6453
+  },
+  "1765562232887": {
+    "originalName": "GRU-LOGO VERT_blanco.png",
+    "fileName": "1765562232887.png",
+    "size": 1432076,
+    "url": "${appResourceUrl}/images/widget_2/1765562232887.png",
+    "created": 1765562232887,
+    "resourcesPrefix": "images/widget_2",
+    "referredIds": [],
+    "originId": "1765562232887",
+    "fileFormat": "image/png",
+    "originalWidth": 7203,
+    "originalHeight": 6453
+  },
+  "1765566937679": {
+    "originalName": "GRU-LOGO VERT (Pequeño).png",
+    "fileName": "1765566937679.png",
+    "size": 77916,
+    "url": "${appResourceUrl}/images/widget_44/1765566937679.png",
+    "created": 1765566937679,
+    "resourcesPrefix": "images/widget_44",
+    "referredIds": [],
+    "originId": "1765566937679",
+    "fileFormat": "image/png",
+    "originalWidth": 536,
+    "originalHeight": 480
+  },
+  "1765567276181": {
+    "originalName": "GRU_LOGO OFICIAL (Pequeño).png",
+    "fileName": "1765567276181.png",
+    "size": 63771,
+    "url": "${appResourceUrl}/images/widget_68/1765567276181.png",
+    "created": 1765567276181,
+    "resourcesPrefix": "images/widget_68",
+    "referredIds": [],
+    "originId": "1765567276181",
+    "fileFormat": "image/png",
+    "originalWidth": 854,
+    "originalHeight": 284
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "1765558943740.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1765558943740.png",
+    "properties": {
+      "filename": "1765558943740.png",
+      "originalName": "interoperabilidad.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1765558943740.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1765569765456.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1765569765456.png",
+    "properties": {
+      "filename": "1765569765456.png",
+      "originalName": "mapa-del-mundo.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1765569765456.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1765571135352.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1765571135352.png",
+    "properties": {
+      "filename": "1765571135352.png",
+      "originalName": "LOGO ARA COLOR.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1765571135352.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1765574496467.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1765574496467.png",
+    "properties": {
+      "filename": "1765574496467.png",
+      "originalName": "GRU-LOGO VERT (Pequeño).png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1765574496467.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1771261447266.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1771261447266.png",
+    "properties": {
+      "filename": "1771261447266.png",
+      "originalName": "ara color.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1771261447266.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1771261753250.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1771261753250.png",
+    "properties": {
+      "filename": "1771261753250.png",
+      "originalName": "ara.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1771261753250.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1771262822887.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1771262822887.png",
+    "properties": {
+      "filename": "1771262822887.png",
+      "originalName": "diresa.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1771262822887.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1771262845664.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1771262845664.png",
+    "properties": {
+      "filename": "1771262845664.png",
+      "originalName": "serfor.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1771262845664.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1771263112445.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1771263112445.png",
+    "properties": {
+      "filename": "1771263112445.png",
+      "originalName": "drau.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1771263112445.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1771263134590.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1771263134590.png",
+    "properties": {
+      "filename": "1771263134590.png",
+      "originalName": "GRFFS.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1771263134590.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  }
+}
